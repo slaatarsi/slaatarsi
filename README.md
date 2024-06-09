@@ -7,8 +7,8 @@ Full Stack Developer
 * 🌍  I'm based in Morocco
 * 🖥️  See my portfolio at [linked in](http://linkedin.com/in/salaheddine-laatarsi/)
 * ✉️  You can contact me at [laatarsisalaheddine@gmail.com](mailto:laatarsisalaheddine@gmail.com)
-* 🚀  I'm currently working on [Used.ma](http://used.ma)
-* 🧠  I'm learning AWS
+* 🚀  I'm currently working on [Aftass](https://github.com/slaatarsi/Aftass)
+* 🧠  I'm practicing more Next.js 14
 * 🤝  I'm open to collaborating on big idea
 * ⚡  I like CATS 😼
 
