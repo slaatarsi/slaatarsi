@@ -56,7 +56,7 @@ A second-hand fashion marketplace for Morocco, with browsing, search, cart, list
 
 A B2B contact-management product for centralizing company records, contacts, digital business cards, and sharing.
 
-- **My contribution:** Marketing site and product onboarding across web, desktop, and mobile surfaces.
+- **My contribution:** Built the dashboard and implemented the product's business logic.
 - **Main technologies:** React, Symfony, Tailwind CSS, and Bootstrap.
 - **Link:** [Live site](https://contact.imperium.plus/)
 
@@ -64,7 +64,7 @@ A B2B contact-management product for centralizing company records, contacts, dig
 
 A patient-facing website for a medical analysis laboratory in Khemisset, covering services, pricing, biocalculators, and patient information.
 
-- **My contribution:** Multilingual French/Arabic experience with a focus on local discoverability.
+- **My contribution:** Built the complete application, including its multilingual French and Arabic experience.
 - **Main technologies:** TanStack Start, Tailwind CSS, and shadcn/ui.
 - **Link:** [Live site](https://atlaslabo.vercel.app/)
 
