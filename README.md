@@ -64,7 +64,7 @@ A B2B contact-management product for centralizing company records, contacts, dig
 
 A patient-facing website for a medical analysis laboratory in Khemisset, covering services, pricing, biocalculators, and patient information.
 
-- **My contribution:** Built the complete application, including its multilingual French and Arabic experience.
+- **My contribution:** Built the complete application from end to end.
 - **Main technologies:** TanStack Start, Tailwind CSS, and shadcn/ui.
 - **Link:** [Live site](https://atlaslabo.vercel.app/)
 
@@ -105,7 +105,7 @@ A patient-facing website for a medical analysis laboratory in Khemisset, coverin
 
 ## Current focus
 
-Currently focused on building production-ready SaaS products, improving AI-assisted development workflows, and creating scalable systems with **TypeScript and PostgreSQL**.
+Currently focused on building production-ready SaaS products, refining AI-assisted engineering workflows, and delivering scalable full-stack applications with **TanStack Start**.
 
 ## Connect
 
