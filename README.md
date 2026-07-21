@@ -76,7 +76,7 @@ A patient-facing website for a medical analysis laboratory in Khemisset, coverin
 
 1. I start with the business problem: users, journeys, rules, permissions, constraints, and edge cases.
 2. I use ChatGPT to challenge assumptions, identify missing cases, structure PRDs, and prepare implementation plans with clear acceptance criteria.
-3. I give Cursor or Claude Code focused tasks with the relevant files, business rules, constraints, and existing codebase conventions.
+3. I give Codex or Pi Agent focused tasks with the relevant files, business rules, constraints, and existing codebase conventions.
 4. I inspect every generated diff, run the application, and validate functionality, permissions, loading states, errors, and edge cases.
 5. I refactor where needed, document important decisions, use GitHub for version control, and deploy previews and production releases through Vercel.
 
@@ -89,7 +89,7 @@ A patient-facing website for a medical analysis laboratory in Khemisset, coverin
 | **Full-Stack** | TypeScript, JavaScript, Node.js, Express, PHP, Laravel, Symfony, REST APIs, server functions |
 | **Backend & architecture** | Authentication, authorization, multi-tenant architecture, system design, caching, performance optimization |
 | **Database** | PostgreSQL, Prisma, Drizzle ORM, database modelling, relational schema design |
-| **AI workflow** | ChatGPT, Cursor, Claude Code; requirements analysis, planning, focused implementation, diff review, and validation |
+| **AI workflow** | ChatGPT, Codex, Pi Agent; requirements analysis, planning, focused implementation, diff review, and validation |
 | **Tools & deployment** | Git, GitHub, Vercel, Jira, Figma, VS Code |
 
 ## Experience
